@@ -12,3 +12,6 @@ https://quackerlatuet.wordpress.com/2018/02/21/selbstgedruckter-roboter/
 3D file
 https://www.thingiverse.com/thing:2778904
 
+
+https://www.thingiverse.com/thing:4657644
+Robot codmo
