@@ -9,3 +9,6 @@ Khung xe in 3D
 
 copy from:
 https://quackerlatuet.wordpress.com/2018/02/21/selbstgedruckter-roboter/
+3D file
+https://www.thingiverse.com/thing:2778904
+
