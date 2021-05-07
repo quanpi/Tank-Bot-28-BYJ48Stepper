@@ -5,4 +5,4 @@ Xe tank mini sử dụng 2 Stepper 28-BYJ48 và Arduino
 
 Khung xe in 3D
 
-15 mắc xích cho mõi bên xe
+16 mắc xích cho mõi bên xe
