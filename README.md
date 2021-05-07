@@ -15,3 +15,7 @@ https://www.thingiverse.com/thing:2778904
 
 https://www.thingiverse.com/thing:4657644
 Robot codmo
+
+
+Bluetooth control
+https://www.keuwl.com/electronics/rduino/bluet/10-stepper-motor/
